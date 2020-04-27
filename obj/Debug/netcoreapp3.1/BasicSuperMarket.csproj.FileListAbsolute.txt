@@ -1,0 +1,11 @@
+D:\Personal\C#\Knowledge Sharing\Code\BasicSuperMarket\bin\Debug\netcoreapp3.1\BasicSuperMarket.exe
+D:\Personal\C#\Knowledge Sharing\Code\BasicSuperMarket\bin\Debug\netcoreapp3.1\BasicSuperMarket.deps.json
+D:\Personal\C#\Knowledge Sharing\Code\BasicSuperMarket\bin\Debug\netcoreapp3.1\BasicSuperMarket.runtimeconfig.json
+D:\Personal\C#\Knowledge Sharing\Code\BasicSuperMarket\bin\Debug\netcoreapp3.1\BasicSuperMarket.runtimeconfig.dev.json
+D:\Personal\C#\Knowledge Sharing\Code\BasicSuperMarket\bin\Debug\netcoreapp3.1\BasicSuperMarket.dll
+D:\Personal\C#\Knowledge Sharing\Code\BasicSuperMarket\bin\Debug\netcoreapp3.1\BasicSuperMarket.pdb
+D:\Personal\C#\Knowledge Sharing\Code\BasicSuperMarket\obj\Debug\netcoreapp3.1\BasicSuperMarket.csprojAssemblyReference.cache
+D:\Personal\C#\Knowledge Sharing\Code\BasicSuperMarket\obj\Debug\netcoreapp3.1\BasicSuperMarket.AssemblyInfoInputs.cache
+D:\Personal\C#\Knowledge Sharing\Code\BasicSuperMarket\obj\Debug\netcoreapp3.1\BasicSuperMarket.AssemblyInfo.cs
+D:\Personal\C#\Knowledge Sharing\Code\BasicSuperMarket\obj\Debug\netcoreapp3.1\BasicSuperMarket.dll
+D:\Personal\C#\Knowledge Sharing\Code\BasicSuperMarket\obj\Debug\netcoreapp3.1\BasicSuperMarket.pdb
